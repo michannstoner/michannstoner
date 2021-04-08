@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=michannstoner&count_private=true&show_icons=false&hide=contribs)
+
 <!--
 **michannstoner/michannstoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
