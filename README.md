@@ -1,6 +1,6 @@
 ### Hi there, so happy you stopped by! 👋🏼
 
-My name is Michann Stoner and I am a software engineer, currently enrolled at the Turing School of Software and Design.
+My name is Michann Stoner and I am a software engineer, currently enrolled at Turing School of Software and Design.
 Combined with my past experience as a client-focused account manager, my goal is to create and collaborate on applications that foster a seamless user experience and leave a positive impact. 
 
 
@@ -12,14 +12,10 @@ Combined with my past experience as a client-focused account manager, my goal is
 <!--
 **michannstoner/michannstoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+When I'm not learning how to code, I enjoy: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Painting & textile art 
+- Cooking 
+- Taking care of my plants
+- Reading
+- The good ol outdoors
