@@ -9,9 +9,6 @@ Combined with my past experience as a client-focused account manager, my goal is
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=michannstoner&count_private=true&show_icons=false&hide=contribs)
 
-<!--
-**michannstoner/michannstoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <td><img src="./src/images/js-icon.png" alt="javascript" width="100" height="auto" /></td>
 <td><img src="./src/images/html-logo.png" alt="html" width="100" height="auto" /></td>
 <td><img src="./src/images/css-logo.png" alt="css" width="100" height="auto" /></td>
