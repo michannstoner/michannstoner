@@ -15,8 +15,8 @@ Combined with my past experience as a client-focused account manager, my goal is
 </p>
 
 #### Contact 
-👩🏻‍💻 [LinkedIn](https://www.linkedin.com/in/michann-stoner/)
-💌 ![](stoner.michann@gmail.com) 
+•👩🏻‍💻 [LinkedIn](https://www.linkedin.com/in/michann-stoner/)
+•💌 <stoner.michann@gmail.com> 
 
 
 
