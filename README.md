@@ -1,7 +1,6 @@
 ### Hi there, so happy you stopped by! 👋🏼
 
-My name is Michann Stoner and I am a software engineer, currently enrolled at Turing School of Software and Design.
-Combined with my past experience as a client-focused account manager, my goal is to create and collaborate on applications that foster a seamless user experience and leave a positive impact. 
+My name is Michann and I am a front-end software engineer, currently enrolled at Turing School of Software and Design.
 
 #### Contact 
 - 👩🏻‍💻 [LinkedIn](https://www.linkedin.com/in/michann-stoner/)
