@@ -4,8 +4,9 @@ My name is Michann Stoner and I am a software engineer, currently enrolled at Tu
 Combined with my past experience as a client-focused account manager, my goal is to create and collaborate on applications that foster a seamless user experience and leave a positive impact. 
 
 #### Contact 
-- 👩🏻‍💻 [LinkedIn](https://www.linkedin.com/in/michann-stoner/)
-- 💌 <stoner.michann@gmail.com> 
+👩🏻‍💻 [LinkedIn](https://www.linkedin.com/in/michann-stoner/)
+
+💌 <stoner.michann@gmail.com> 
 
 #### Technologies 
 <p style="text-align:center;">
