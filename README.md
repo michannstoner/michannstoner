@@ -21,7 +21,7 @@ Combined with my past experience as a client-focused account manager, my goal is
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=michannstoner&count_private=true&show_icons=false&hide=contribs)
 
 
-When I'm not learning how to code, I enjoy: 
+When I'm not learning new technologies, I enjoy:
 
 - Painting & textile art 
 - Cooking 
