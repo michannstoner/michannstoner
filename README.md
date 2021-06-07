@@ -1,6 +1,6 @@
 ### Hi there, so happy you stopped by! 👋🏼
 
-My name is Michann and I am a front-end software engineer, currently enrolled at Turing School of Software and Design.
+My name is Michann and I am a front-end software developer, currently enrolled at Turing School of Software and Design.
 
 #### Contact 
 - 👩🏻‍💻 [LinkedIn](https://www.linkedin.com/in/michann-stoner/)
