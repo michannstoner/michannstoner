@@ -1,6 +1,6 @@
 ### Hi there, so happy you stopped by! 👋🏼
 
-My name is Michann and I am a software engineer, currently enrolled at Turing School of Software and Design.<br>/<br>
+My name is Michann and I am a software engineer, currently enrolled at Turing School of Software and Design.
 You can find me on [LinkedIn](https://www.linkedin.com/in/michann-stoner/), or you can send me an [email](mailto:stoner.michann@gmail.com) 💌
 
 
