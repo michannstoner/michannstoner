@@ -2,6 +2,16 @@
 
 My name is Michann and I am a front-end software developer, currently enrolled at Turing School of Software and Design.
 
+
+<p>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michann-stoner/)
+</p>
+
+
+<p> 
+  <img width="410"  height="200" src="https://github-readme-stats.vercel.app/api?username=michannstoner&theme=nightowl&show_icons=true"/>
+</p>
+
 #### Contact 
 - 👩🏻‍💻 [LinkedIn](https://www.linkedin.com/in/michann-stoner/)
 - 💌 <stoner.michann@gmail.com> 
@@ -21,9 +31,4 @@ My name is Michann and I am a front-end software developer, currently enrolled a
   <img alt="TravisCI" src="https://img.shields.io/badge/-Travis_CI-D9D192?logo=travis-ci&logoColor=C63148&style=for-the-badge"/>
   <img alt="Heroku" src="https://img.shields.io/badge/-heroku-431198?logo=heroku&logoColor=white&style=for-the-badge"/>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
-
-<p> 
-  <img width="410"  height="200" src="https://github-readme-stats.vercel.app/api?username=michannstoner&theme=nightowl&show_icons=true"/>
 </p>
