@@ -4,16 +4,13 @@ My name is Michann and I am a front-end software developer, currently enrolled a
 
 
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michann-stoner/)
-
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:stoner.michann@gmail.com)
 
 
 <p> 
   <img width="410"  height="200" src="https://github-readme-stats.vercel.app/api?username=michannstoner&theme=nightowl&show_icons=true"/>
 </p>
 
-#### Contact 
-- 👩🏻‍💻 [LinkedIn](https://www.linkedin.com/in/michann-stoner/)
-- 💌 <stoner.michann@gmail.com> 
 
 #### Skills 
 <p>
