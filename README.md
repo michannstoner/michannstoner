@@ -19,7 +19,11 @@ My name is Michann and I am a front-end software developer, currently enrolled a
 
 
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=michannstoner&count_private=true&show_icons=false&hide=contribs)
+<!-- ![Overall Stats](https://github-readme-stats.vercel.app/api?username=michannstoner&count_private=true&show_icons=false&hide=contribs) -->
+<p align='center'> 
+  <img width="410"  height="200" src="https://github-readme-stats.vercel.app/api?username=michannstoner&theme=onedark&show_icons=true"/>
+</p>
+
 
 
 #### When I'm not learning new technologies, I enjoy:
