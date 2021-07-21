@@ -3,7 +3,7 @@
 My name is Michann and I am a front-end software developer, currently enrolled at Turing School of Software and Design.
 
 
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michann-stoner/)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michann-stoner/)<br></br>
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stoner.michann@gmail.com)
 
 
